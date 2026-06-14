@@ -48,6 +48,3 @@ This project presents a sales performance dashboard developed in Power BI to mon
 
 <img width="1422" height="796" alt="image" src="https://github.com/user-attachments/assets/54e53cbe-4436-4029-9208-1a62286ba5aa" />
 
-
-(Add screenshots here)
-
