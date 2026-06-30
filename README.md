@@ -11,48 +11,109 @@
 
 This project presents a sales performance dashboard developed in Power BI to monitor revenue, units sold, and budget achievement across multiple countries and customers.
 
-## Business Questions
+# 🎥 Interactive Dashboard Demo
 
-* How is revenue performing over time?
-* Which countries generate the highest sales?
-* Which customers contribute the most revenue?
-* Are sales targets being achieved?
+> See how slicers dynamically update every visual, allowing users to analyze sales performance from different years, months, and customers.
 
-## Tools Used
+<img width="1419" height="794" alt="Powerbi-sales-slicers" src="https://github.com/user-attachments/assets/a2862d7f-f146-46c2-a35a-e252d33ffbe0" />
 
-* Power BI
-* Power Query
-* DAX
-* Excel
+---
 
-## Dashboard Features
+# 📸 Dashboard Preview
 
-* Revenue and units sold KPIs
-* Budget vs actual sales tracking
-* Geographic sales analysis
-* Customer performance analysis
-* Interactive filters by country, customer, month, and year
+## Main Dashboard
 
-## Key Insights
+<img width="1422" height="796" alt="image" src="https://github.com/user-attachments/assets/54e53cbe-4436-4029-9208-1a62286ba5aa" />
 
-* Identified top-performing countries and customers.
-* Evaluated sales trends over time.
-* Monitored budget compliance and sales growth opportunities.
+---
+
+# 🎯 Business Objective
+
+Develop an interactive business intelligence dashboard that enables users to monitor sales performance, identify high-performing markets and customers, evaluate budget achievement, and analyze sales trends over time to support data-driven decision-making.
+
+---
+
+# ❓ Business Questions Answered
+
+This dashboard helps answer questions such as:
+
+- Which countries generate the highest revenue?
+- Which customers contribute the most sales?
+- How do sales change over time?
+- Are sales meeting the planned budget?
+- How many transactions and units have been sold?
+- Which markets present the greatest growth opportunities?
+
+---
+
+# 🚀 Dashboard Features
+
+- Interactive filters by Year, Month, Country, and Customer
+- Revenue and Units Sold KPI cards
+- Budget vs Actual Sales gauge
+- Sales by Country visualization
+- Customer performance analysis
+- Monthly sales trend analysis
+- Year-over-year sales comparison
+- Geographic sales map
+- Sales summary table with key performance metrics
+
+---
+
+# 📈 Key Performance Indicators
+
+| KPI | Description |
+|------|-------------|
+| **Total Sales** | Total revenue generated |
+| **Units Sold** | Total quantity of products sold |
+| **Transactions** | Number of completed sales |
+| **Average Ticket** | Average revenue per transaction |
+| **Budget Achievement** | Actual sales compared to planned budget |
+
+---
+
+# 💡 Key Insights
+
+- Identified the highest-performing countries by total revenue.
+- Compared customer contributions to overall sales.
+- Evaluated monthly and yearly sales trends.
+- Monitored sales performance against budget targets.
+- Enabled quick identification of business opportunities through interactive filtering.
+
+---
+
+# 🛠️ Tools & Technologies
+
+- Power BI
+- Power Query
+- DAX
+- Microsoft Excel
+
+---
+
+# 📚 Skills Demonstrated
+
+- Dashboard Design
+- Business Intelligence
+- Data Visualization
+- Data Modeling
+- Power Query (ETL)
+- DAX Measures
+- KPI Development
+- Interactive Reporting
+- Geospatial Analysis
+- Data Analysis
+
+---
 
 ## Files
 
 * Power BI dashboard (.pbix)
 * Dashboard screenshots
 
-## Dashboard Preview
+---
 
-<img width="1422" height="796" alt="image" src="https://github.com/user-attachments/assets/54e53cbe-4436-4029-9208-1a62286ba5aa" />
-
-## Interactive Filtering
-
-See how selecting different years, months, and customers instantly updates every visual on the dashboard.
-
-<img width="1419" height="794" alt="Powerbi-sales-slicers" src="https://github.com/user-attachments/assets/a2862d7f-f146-46c2-a35a-e252d33ffbe0" />
+# 📸 Additional Dashboard Views
 
 ## Sales Performance Visualizations
 
@@ -66,6 +127,27 @@ Analyze sales metrics including revenue, transactions, channel contribution, and
 
 <img width="643" height="473" alt="Powerbi-sales-table" src="https://github.com/user-attachments/assets/e2c0555c-6fd0-4292-be86-191860f3a8f3" />
 
+# 📈 Business Value
+
+This dashboard consolidates multiple sales metrics into a single interactive report, enabling users to quickly evaluate business performance, compare markets, monitor sales targets, and identify opportunities without manually analyzing raw data.
+
+---
+
+# 🔮 Future Improvements
+
+- Add profitability and margin analysis
+- Include product-level performance metrics
+- Create customer segmentation analysis
+- Add drill-through pages for detailed exploration
+- Develop a mobile-friendly dashboard layout
+
+---
+
+# 👤 Author
+
+**Daniel Betancourt**
+
+If you found this project interesting, feel free to connect with me on LinkedIn or explore my other data analytics projects on GitHub.
 
 
 
