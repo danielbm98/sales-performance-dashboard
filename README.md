@@ -127,6 +127,8 @@ Analyze sales metrics including revenue, transactions, channel contribution, and
 
 <img width="643" height="473" alt="Powerbi-sales-table" src="https://github.com/user-attachments/assets/e2c0555c-6fd0-4292-be86-191860f3a8f3" />
 
+---
+
 # 📈 Business Value
 
 This dashboard consolidates multiple sales metrics into a single interactive report, enabling users to quickly evaluate business performance, compare markets, monitor sales targets, and identify opportunities without manually analyzing raw data.
